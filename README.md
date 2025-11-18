@@ -2,6 +2,11 @@
 
 A simple Streamlit web app that uses Google Gemini to analyse a meal image and estimate its calories. You upload a food photo, add a short text prompt, and the app returns a breakdown of items with approximate calories.
 
+## 🚀 Demo
+
+[![Demo](https://img.shields.io/badge/Demo-Live-green)](https://gemini-calories-app-ruypbapthyfsz7lcvuhyhb.streamlit.app/)
+
+
 ##  Features
 
 - Upload a food image (JPG / PNG).
